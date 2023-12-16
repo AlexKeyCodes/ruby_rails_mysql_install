@@ -1,8 +1,9 @@
-# ruby_rails_mysql_install
-A script to install ruby 2.6.3 (uses RVM), rails 6, and mysql. Includes dependancies. 
+# ruby_rails_postgres_install
+A script to install ruby 3.2.2 (uses RVM), rails 7.1.2, and postgres. Includes dependancies. 
 
 Create Executable:
   chmod +x script.sh
+  chmod +x script_p2.sh
   
   
 Run:
